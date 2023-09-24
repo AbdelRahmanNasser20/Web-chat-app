@@ -1,0 +1,14 @@
+.DS_Store
+backend/__pycache__/__init__.cpython-39.pyc
+backend/__pycache__/__init__.cpython-311.pyc
+backend/__pycache__/config.cpython-39.pyc
+backend/__pycache__/config.cpython-311.pyc
+backend/__pycache__/database.cpython-39.pyc
+backend/__pycache__/database.cpython-311.pyc
+backend/views/__pycache__/auth.cpython-39.pyc
+backend/views/__pycache__/auth.cpython-311.pyc
+backend/views/__pycache__/chat.cpython-39.pyc
+backend/views/__pycache__/chat.cpython-311.pyc
+backend/views/__pycache__/history.cpython-39.pyc
+backend/views/__pycache__/history.cpython-311.pyc
+instance/database.db
